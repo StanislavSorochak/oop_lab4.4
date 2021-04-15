@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Пользователь\source\repos\oop_laba4.4\oop_laba4.4\Dollar.cpp(21,8): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Пользователь\source\repos\oop_laba4.4\Debug\UnitTest1.lib и объект C:\Users\Пользователь\source\repos\oop_laba4.4\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Пользователь\source\repos\oop_laba4.4\Debug\UnitTest1.dll

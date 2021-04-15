@@ -1,0 +1,8 @@
+﻿  Currency.cpp
+  Dollar.cpp
+C:\Users\Пользователь\source\repos\oop_laba4.4\oop_laba4.4\Dollar.cpp(21,8): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+  Euro.cpp
+C:\Users\Пользователь\source\repos\oop_laba4.4\oop_laba4.4\Euro.cpp(21,8): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  oop_laba4.4.vcxproj -> C:\Users\Пользователь\source\repos\oop_laba4.4\Debug\oop_laba4.4.exe
